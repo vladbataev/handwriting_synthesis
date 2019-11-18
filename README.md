@@ -1,4 +1,4 @@
-# Handwriting generation
+# Handwriting synthesis
 
 ![](data/always.png)
 ![](data/generative.png)
