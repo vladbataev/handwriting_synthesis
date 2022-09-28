@@ -14,7 +14,7 @@ def main():
         description='Neural based handwriting synthesis implementation.',
         install_requires=[
             'torch==1.2.0',
-            'numpy==1.14.5',
+            'numpy==1.22.0',
             'jupyter',
             'matplotlib',
         ],
