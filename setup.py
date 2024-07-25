@@ -13,7 +13,7 @@ def main():
         package_dir={'': 'src'},
         description='Neural based handwriting synthesis implementation.',
         install_requires=[
-            'torch==1.2.0',
+            'torch==2.2.0',
             'numpy==1.22.0',
             'jupyter',
             'matplotlib',
